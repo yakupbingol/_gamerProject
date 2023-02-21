@@ -1,0 +1,5 @@
+1) Oyuncuların sisteme kayıt olabileceği, bilgilerinin güncelleyebileceği, kayıtları silebileceği bir ortam simule ediniz. Müşteri bilgilerinin doğruluğunu e-devlet
+kullanarak doğrulamayı yapın.
+2) Oyun satışı yapılabilecek satış ortamı simule ediniz.
+3) Sisteme yeni kayıt girişi, silinmesi ve güncellenmesi imkanını simule ediniz.
+4)Satışlarda kampanya entegrasyonunu simule ediniz
